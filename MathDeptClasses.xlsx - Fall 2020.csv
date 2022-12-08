@@ -1,0 +1,321 @@
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+44000,Lec,A,4,LEHMAN R.,    TBA,ON LINE,    TBA,198,67,0,101,0,A,Bookstore,,OPEN
+44020,Lec,A,4,LEHMAN R.,    TBA,ON LINE,    TBA,406,244,0,341,0,A,Bookstore,,OPEN
+44022,Dis,A1,0,STAFF,M   8:00- 8:50 ,VRTL REMOTE,,0,0,n/a,2,0,A,Bookstore,,FULL
+44023,Dis,A2,0,STAFF,W   11:00-11:50 ,VRTL REMOTE,,100,14,0,17,0,A,Bookstore,,OPEN
+44024,Dis,A3,0,STAFF,F   8:00- 8:50 ,VRTL REMOTE,,0,0,n/a,0,0,A,Bookstore,,FULL
+44025,Dis,A4,0,STAFF,M   10:00-10:50 ,VRTL REMOTE,,102,89,0,100,0,A,Bookstore,,OPEN
+44031,Dis,A5,0,STAFF,W   10:00-10:50 ,VRTL REMOTE,,102,100,0,103,0,A,Bookstore,,OPEN
+44034,Dis,A6,0,STAFF,F   10:00-10:50 ,VRTL REMOTE,,102,41,0,51,0,A,Bookstore,,OPEN
+44110,Lec,A,4,DELLACA R.,MWF   8:00- 8:50 ,VRTL REMOTE,Mon Dec 14 8:00-10:00am,339,240,0,382,305,A,Bookstore,,NewOnly
+44115,Dis,A1,0,STAFF,WF   11:00-11:50 ,VRTL REMOTE,,59,59,1,67,51,A,Bookstore,,Waitl
+44116,Dis,A2,0,STAFF,WF   12:00-12:50p,VRTL REMOTE,,59,59,0,63,51,A,Bookstore,,Waitl
+44117,Dis,A3,0,STAFF,WF   4:00- 4:50p,VRTL REMOTE,,59,52,0,60,51,A,Bookstore,,NewOnly
+44119,Dis,A4,0,STAFF,WF   3:00- 3:50p,VRTL REMOTE,,42,42,0,45,42,A,Bookstore,,Waitl
+44135,Dis,A5,0,STAFF,TuTh   12:00-12:50p,VRTL REMOTE,,60,21,0,24,55,A,Bookstore,,NewOnly
+44137,Dis,A6,0,STAFF,TuTh   3:00- 3:50p,VRTL REMOTE,,60,7,0,9,55,A,Bookstore,,NewOnly
+44140,Lec,B,4,YOUSSEFPOUR H.,    TBA,ON LINE,    TBA,448,411,0,542,305,A,Bookstore,,NewOnly
+44141,Dis,B1,0,STAFF,TuTh   5:00- 5:50p,VRTL REMOTE,,60,60,0,68,44,A,Bookstore,,Waitl
+44145,Dis,B2,0,STAFF,MW   12:00-12:50p,VRTL REMOTE,,60,60,1,59,43,A,Bookstore,,Waitl
+44150,Dis,B3,0,STAFF,MW   1:00- 1:50p,VRTL REMOTE,,60,59,0,65,44,A,Bookstore,,NewOnly
+44165,Dis,B4,0,STAFF,MW   4:00- 4:50p,VRTL REMOTE,,54,41,0,41,43,A,Bookstore,,NewOnly
+44166,Dis,B5,0,STAFF,MW   3:00- 3:50p,VRTL REMOTE,,60,60,0,64,43,A,Bookstore,,Waitl
+44190,Dis,B6,0,STAFF,TuTh   5:00- 5:50p,VRTL REMOTE,,54,37,0,35,44,A,Bookstore,,NewOnly
+44195,Dis,B7,0,STAFF,TuTh   6:00- 6:50p,VRTL REMOTE,,60,54,0,55,44,A,Bookstore,,NewOnly
+44197,Dis,B8,0,STAFF,MW   10:00-10:50 ,VRTL REMOTE,,40,40,0,45,0,A,Bookstore,,Waitl
+44275,Lec,A,4,YOUSSEFPOUR H.,MWF   6:00- 6:50p,VRTL REMOTE,Fri Dec 18 7:00-9:00pm,339,264,0,368,305,A,Bookstore,,NewOnly
+44278,Dis,A1,0,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,,60,60,0,61,52,A,Bookstore,,Waitl
+44279,Dis,A2,0,STAFF,TuTh   6:00- 6:50p,VRTL REMOTE,,60,60,0,60,52,A,Bookstore,,Waitl
+44280,Dis,A3,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,59,49,0,51,51,A,Bookstore,,NewOnly
+44281,Dis,A4,0,STAFF,TuTh   12:00-12:50p,VRTL REMOTE,,60,31,0,37,51,A,Bookstore,,NewOnly
+44282,Dis,A5,0,STAFF,TuTh   3:00- 3:50p,VRTL REMOTE,,47,35,0,33,47,A,Bookstore,,NewOnly
+44283,Dis,A6,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,53,29,0,34,52,A,Bookstore,,NewOnly
+44290,Lec,B,4,LEHMAN R.,    TBA,ON LINE,    TBA,448,240,5,348,305,A,Bookstore,,NewOnly
+44295,Dis,B1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,55,30,0,30,38,A,Bookstore,,NewOnly
+44296,Dis,B2,0,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,,59,48,1,52,38,A,Bookstore,,NewOnly
+44297,Dis,B3,0,STAFF,TuTh   1:00- 1:50p,VRTL REMOTE,,56,37,0,38,38,A,Bookstore,,NewOnly
+44299,Dis,B4,0,STAFF,TuTh   12:00-12:50p,VRTL REMOTE,,59,29,0,28,38,A,Bookstore,,NewOnly
+44300,Dis,B5,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,65,35,0,40,38,A,Bookstore,,NewOnly
+44301,Dis,B6,0,STAFF,TuTh   4:00- 4:50p,VRTL REMOTE,,47,21,3,24,38,A,Bookstore,,NewOnly
+44302,Dis,B7,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,60,29,0,34,38,A,Bookstore,,NewOnly
+44303,Dis,B8,0,STAFF,TuTh   3:00- 3:50p,VRTL REMOTE,,47,11,1,14,39,A,Bookstore,,NewOnly
+44355,Lec,A,4,STREETS J.,MWF   4:00- 4:50p,VRTL REMOTE,Wed Dec 16 4:00-6:00pm,332,134,0,192,99,A and N,Bookstore,,OPEN
+44356,Dis,A1,0,STAFF,TuTh   1:00- 1:50p,VRTL REMOTE,,59,52,0,57,17,A and N,Bookstore,,NewOnly
+44357,Dis,A2,0,STAFF,TuTh   5:00- 5:50p,VRTL REMOTE,,59,31,0,31,17,A and N,Bookstore,,OPEN
+44365,Dis,A3,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,60,6,0,9,17,A and N,Bookstore,,OPEN
+44370,Dis,A4,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,47,19,0,20,16,A and N,Bookstore,,OPEN
+44372,Dis,A5,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,60,10,0,10,16,A and N,Bookstore,,OPEN
+44374,Dis,A6,0,STAFF,TuTh   4:00- 4:50p,VRTL REMOTE,,47,16,0,18,16,A and N,Bookstore,,OPEN
+44380,Lec,B,4,STAFF,MWF   8:00- 8:50 ,VRTL REMOTE,Mon Dec 14 8:00-10:00am,107,52,0,95,98,A and N,Bookstore,,NewOnly
+44381,Dis,B1,0,STAFF,TuTh   1:00- 1:50p,VRTL REMOTE,,60,40,0,49,52,A and N,Bookstore,,NewOnly
+44382,Dis,B2,0,STAFF,MW   4:00- 4:50p,VRTL REMOTE,,47,12,0,18,47,A and N,Bookstore,,NewOnly
+44386,Lec,C,4,STREETS J.,MWF   2:00- 2:50p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,257,99,0,127,98,A and N,Bookstore,,OPEN
+44387,Dis,C1,0,STAFF,MW   10:00-10:50 ,VRTL REMOTE,,45,41,0,44,19,A and N,Bookstore,,NewOnly
+44395,Dis,C2,0,STAFF,MW   1:00- 1:50p,VRTL REMOTE,,49,28,0,30,19,A and N,Bookstore,,OPEN
+44396,Dis,C3,0,STAFF,MW   9:00- 9:50 ,VRTL REMOTE,,56,17,0,19,19,A and N,Bookstore,,OPEN
+44397,Dis,C4,0,STAFF,MW   5:00- 5:50p,VRTL REMOTE,,54,10,0,12,20,A and N,Bookstore,,OPEN
+44398,Dis,C5,0,STAFF,MW   1:00- 1:50p,VRTL REMOTE,,53,5,0,8,21,A and N,Bookstore,,OPEN
+44415,Lec,A,4,HUBER K.,MWF   1:00- 1:50p,VRTL REMOTE,Wed Dec 16 1:30-3:30pm,114,107,0,165,7,A and N,Bookstore,,NewOnly
+44420,Dis,A1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,57,53,0,60,4,A and N,Bookstore,,NewOnly
+44421,Dis,A2,0,STAFF,MW   12:00-12:50p,VRTL REMOTE,,57,54,0,63,3,A and N,Bookstore,,NewOnly
+44426,Lec,B,4,HUBER K.,MWF   12:00-12:50p,VRTL REMOTE,Mon Dec 14 1:30-3:30pm,104,95,0,135,7,A and N,Bookstore,,OPEN
+44427,Dis,B1,0,STAFF,MW   4:00- 4:50p,VRTL REMOTE,,47,43,0,51,4,A and N,Bookstore,,NewOnly
+44430,Dis,B2,0,STAFF,WF   8:00- 8:50 ,VRTL REMOTE,,57,47,0,49,3,A and N,Bookstore,,OPEN
+44431,Lec,C,4,HUBER K.,MWF   3:00- 3:50p,VRTL REMOTE,Mon Dec 14 4:00-6:00pm,114,76,0,81,8,A and N,Bookstore,,OPEN
+44432,Dis,C1,0,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,,57,47,0,41,4,A and N,Bookstore,,OPEN
+44433,Dis,C2,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,57,32,0,32,4,A and N,Bookstore,,OPEN
+44435,Lec,A,4,KRONEWETTER J.,MWF   5:00- 5:50p,VRTL REMOTE,Wed Dec 16 10:30-12:30pm,100,100,2,146,12,A and N,Bookstore,,Waitl
+44436,Dis,A1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,60,60,0,63,6,A and N,Bookstore,,Waitl
+44437,Dis,A2,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,40,40,2,43,6,A and N,Bookstore,,Waitl
+44440,Lec,B,4,KRONEWETTER J.,MWF   4:00- 4:50p,VRTL REMOTE,Wed Dec 16 4:00-6:00pm,100,100,1,125,12,A and N,Bookstore,,Waitl
+44445,Dis,B1,0,STAFF,TuTh   9:00- 9:50 ,VRTL REMOTE,,60,60,0,61,6,A and N,Bookstore,,Waitl
+44446,Dis,B2,0,STAFF,TuTh   4:00- 4:50p,VRTL REMOTE,,40,40,3,44,6,A and N,Bookstore,,Waitl
+44450,Lec,C,4,GUO R.,MWF   2:00- 2:50p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,100,80,0,97,12,A and N,Bookstore,,OPEN
+44455,Dis,C1,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,47,41,0,49,6,A and N,Bookstore,,NewOnly
+44456,Dis,C2,0,STAFF,TuTh   9:00- 9:50 ,VRTL REMOTE,,53,39,0,38,6,A and N,Bookstore,,OPEN
+44460,Lec,D,4,WOLFSON J.,MWF   2:00- 2:50p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,106,59,0,80,12,A and N,Bookstore,,OPEN
+44461,Dis,D1,0,STAFF,MW   10:00-10:50 ,VRTL REMOTE,,52,49,0,56,6,A and N,Bookstore,,NewOnly
+44462,Dis,D2,0,STAFF,TuTh   6:00- 6:50p,VRTL REMOTE,,54,10,0,9,6,A and N,Bookstore,,OPEN
+44465,Lec,E,4,GE L.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,100,100,3,127,12,A and N,Bookstore,,Waitl
+44466,Dis,E1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,46,46,0,43,6,A and N,Bookstore,,Waitl
+44467,Dis,E2,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,54,54,5,56,6,A and N,Bookstore,,Waitl
+44470,Lec,F,4,WOLFSON J.,MWF   3:00- 3:50p,VRTL REMOTE,Mon Dec 14 4:00-6:00pm,102,43,0,43,12,A and N,Bookstore,,OPEN
+44471,Dis,F1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,52,21,0,18,6,A and N,Bookstore,,OPEN
+44472,Dis,F2,0,STAFF,TuTh   6:00- 6:50p,VRTL REMOTE,,50,22,0,18,6,A and N,Bookstore,,OPEN
+44480,Lec,G,4,GUO R.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,110,19,0,21,12,A and N,Bookstore,,OPEN
+44485,Dis,G1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,56,4,0,2,6,A and N,Bookstore,,OPEN
+44486,Dis,G2,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,54,15,0,16,6,A and N,Bookstore,,OPEN
+44495,Lec,H,4,KRAMER-MILLER J.,MWF   3:00- 3:50p,VRTL REMOTE,Mon Dec 14 4:00-6:00pm,95,7,0,11,12,A and N,Bookstore,,OPEN
+44496,Dis,H1,0,STAFF,TuTh   5:00- 5:50p,VRTL REMOTE,,51,3,0,3,6,A and N,Bookstore,,OPEN
+44498,Dis,H2,0,STAFF,MW   1:00- 1:50p,VRTL REMOTE,,54,4,0,4,6,A and N,Bookstore,,OPEN
+44505,Lec,A,4,FU X.,MWF   4:00- 4:50p,VRTL REMOTE,Wed Dec 16 4:00-6:00pm,180,164,0,218,11,A and N,Bookstore,,OPEN
+44510,Dis,A1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,60,56,0,56,3,A and N,Bookstore,,OPEN
+44515,Dis,A2,0,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,,60,57,0,64,3,A and N,Bookstore,,NewOnly
+44516,Dis,A3,0,STAFF,MW   8:00- 8:50 ,VRTL REMOTE,,60,51,0,54,3,A and N,Bookstore,,OPEN
+44520,Lec,B,4,KRONEWETTER J.,MWF   1:00- 1:50p,VRTL REMOTE,Wed Dec 16 1:30-3:30pm,180,180,13,251,11,A and N,Bookstore,,Waitl
+44525,Dis,B1,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,45,45,4,53,3,A and N,Bookstore,,Waitl
+44530,Dis,B2,0,STAFF,TuTh   5:00- 5:50p,VRTL REMOTE,,45,45,3,50,3,A and N,Bookstore,,Waitl
+44532,Dis,B3,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,45,45,2,49,3,A and N,Bookstore,,Waitl
+44533,Dis,B4,0,STAFF,TuTh   1:00- 1:50p,VRTL REMOTE,,45,45,5,49,2,A and N,Bookstore,,Waitl
+44580,Lec,A,4,ENCISO RUIZ G.,    TBA,ON LINE,    TBA,399,93,0,175,0,A and N,Bookstore,,OPEN
+44584,Dis,A1,0,STAFF,MW   9:00- 9:50 ,VRTL REMOTE,,54,7,0,11,0,A and N,Bookstore,,OPEN
+44585,Dis,A2,0,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,,47,27,0,34,0,A and N,Bookstore,,OPEN
+44587,Dis,A3,0,STAFF,MW   2:00- 2:50p,VRTL REMOTE,,60,23,0,23,0,A and N,Bookstore,,OPEN
+44588,Dis,A4,0,STAFF,MW   6:00- 6:50p,VRTL REMOTE,,60,2,0,3,0,A and N,Bookstore,,OPEN
+44590,Dis,A5,0,STAFF,MW   1:00- 1:50p,VRTL REMOTE,,60,20,0,20,0,A and N,Bookstore,,OPEN
+44591,Dis,A6,0,STAFF,MW   3:00- 3:50p,VRTL REMOTE,,60,10,0,12,0,A and N,Bookstore,,OPEN
+44592,Dis,A7,0,STAFF,TuTh   5:00- 5:50p,VRTL REMOTE,,58,4,0,4,0,A and N,Bookstore,,OPEN
+44594,Lec,A,4,PELAYO R.,    TBA,ON LINE,    TBA,294,257,0,331,0,A and N,Bookstore,,OPEN
+44595,Dis,A1,0,STAFF,TuTh   12:00-12:50p,VRTL REMOTE,,54,54,4,62,0,A and N,Bookstore,,Waitl
+44596,Dis,A2,0,STAFF,MW   4:00- 4:50p,VRTL REMOTE,,60,59,0,65,0,A and N,Bookstore,,OPEN
+44598,Dis,A3,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,60,60,0,64,0,A and N,Bookstore,,Waitl
+44599,Dis,A4,0,STAFF,MW   5:00- 5:50p,VRTL REMOTE,,60,41,0,48,0,A and N,Bookstore,,OPEN
+44601,Dis,A5,0,STAFF,TuTh   4:00- 4:50p,VRTL REMOTE,,60,43,0,54,0,A and N,Bookstore,,OPEN
+44605,Lec,A,4,STAFF,MWF   8:00- 8:50 ,VRTL REMOTE,Mon Dec 14 8:00-10:00am,49,25,7,52,30,A and L,Bookstore,,NewOnly
+44606,Lab,AL,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,49,25,7,40,30,A and L,Bookstore,,NewOnly
+44607,Lec,B,4,DAVIS C.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,50,45,3,87,30,A and L,Bookstore,,NewOnly
+44608,Lab,BL,0,STAFF,    TBA,ON LINE,,50,45,3,51,30,A and L,Bookstore,,NewOnly
+44609,Lec,C,4,DAVIS C.,MWF   12:00-12:50p,VRTL REMOTE,Mon Dec 14 1:30-3:30pm,50,33,7,53,30,A and L,Bookstore,,NewOnly
+44610,Lab,CL,0,STAFF,    TBA,ON LINE,,50,33,7,40,30,A and L,Bookstore,,NewOnly
+44614,Lec,A,4,STAFF,MWF   12:00-12:50p,VRTL REMOTE,Mon Dec 14 1:30-3:30pm,50,46,8,92,10,A and L,Bookstore,,NewOnly
+44615,Lab,AL,0,STAFF,TuTh   1:00- 1:50p,VRTL REMOTE,,50,46,8,61,10,A and L,Bookstore,,NewOnly
+44616,Lec,A,4,WALSBERG E.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,47,28,0,44,21,A and L,Bookstore,,NewOnly
+44617,Dis,A1,0,STAFF,MW   12:00-12:50p,VRTL REMOTE,,47,28,0,28,21,A and L,Bookstore,,NewOnly
+44620,Lec,C,4,SMITH L.,MWF   9:00- 9:50 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,54,54,9,72,22,A and L,Bookstore,,FULL
+44625,Dis,C1,0,STAFF,TuTh   9:00- 9:50 ,VRTL REMOTE,,54,54,9,62,22,A and L,Bookstore,,FULL
+44627,Lec,D,4,WALSBERG E.,MWF   12:00-12:50p,VRTL REMOTE,Mon Dec 14 1:30-3:30pm,54,26,0,30,21,A and L,Bookstore,,OPEN
+44628,Dis,D1,0,STAFF,MW   2:00- 2:50p,VRTL REMOTE,,54,26,0,25,21,A and L,Bookstore,,OPEN
+44632,Lec,A,4,DELLACA R.,MWF   3:00- 3:50p,VRTL REMOTE,Mon Dec 14 4:00-6:00pm,46,45,n/a,78,5,A and L,Bookstore,,NewOnly
+44633,Dis,A1,0,STAFF,TuTh   3:00- 3:50p,VRTL REMOTE,,46,45,n/a,54,5,A and L,Bookstore,,NewOnly
+44634,Lab,AL,1,DELLACA R.,TuTh   4:00- 4:50p,VRTL REMOTE,    TBA,46,44,n/a,50,5,A and L,Bookstore,,NewOnly
+44635,Lec,B,4,LOWENGRUB J.,MWF   12:00-12:50p,VRTL REMOTE,Mon Dec 14 1:30-3:30pm,45,45,off(2),85,2,A and L,Bookstore,,FULL
+44636,Dis,B1,0,STAFF,TuTh   12:00-12:50p,VRTL REMOTE,,45,45,off(2),67,2,A and L,Bookstore,,FULL
+44638,Lab,BL,1,LOWENGRUB J.,TuTh   1:00- 1:50p,VRTL REMOTE,Fri Dec 18 4:00-6:00pm,45,45,off(2),67,2,A and L,Bookstore,,FULL
+44639,Lec,C,4,YAN H.,MWF   8:00- 8:50 ,VRTL REMOTE,Mon Dec 14 8:00-10:00am,45,44,n/a,71,5,A and L,Bookstore,,NewOnly
+44640,Dis,C1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,45,44,n/a,49,5,A and L,Bookstore,,NewOnly
+44641,Lab,CL,1,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,    TBA,45,44,n/a,50,5,A and L,Bookstore,,NewOnly
+44646,Lec,A,4,KOMAROVA N.,MWF   4:00- 4:50p,VRTL REMOTE,Wed Dec 16 4:00-6:00pm,62,47,0,83,18,A and L,Bookstore,,NewOnly
+44647,Dis,A1,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,62,47,0,56,18,A and L,Bookstore,,NewOnly
+44648,Lec,B,4,KOMAROVA N.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,64,50,2,70,18,A and L,Bookstore,,NewOnly
+44649,Dis,B1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,64,50,2,56,18,A and L,Bookstore,,NewOnly
+44650,Lec,D,4,YAN H.,MWF   10:00-10:50 ,VRTL REMOTE,Mon Dec 14 10:30-12:30pm,45,17,n/a,19,33,A and L,Bookstore,,NewOnly
+44651,Dis,D1,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,45,17,n/a,14,33,A and L,Bookstore,,NewOnly
+44652,Lab,DL,1,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,Tue Dec 15 10:30-12:30pm,45,17,n/a,9,33,A and L,Bookstore,,NewOnly
+44653,Lec,A,4,XIN J.,MWF   9:00- 9:50 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,35,20,0,33,12,A and L,Bookstore,,OPEN
+44655,Dis,A1,0,STAFF,TuTh   9:00- 9:50 ,VRTL REMOTE,,35,20,0,22,12,A and L,Bookstore,,OPEN
+44690,Lec,A,4,VIACLOVSKY J.,MWF   10:00-10:50 ,VRTL REMOTE,Mon Dec 14 10:30-12:30pm,35,35,2,52,0,A and L,Bookstore,,Waitl
+44692,Dis,A1,0,STAFF,TuTh   10:00-10:50 ,VRTL REMOTE,,35,35,2,42,0,A and L,Bookstore,,Waitl
+44695,Lec,A,4,PANTANO A.,MWF   4:00- 4:50p,VRTL REMOTE,Wed Dec 16 4:00-6:00pm,54,54,7,85,1,A and L,Bookstore,,Waitl
+44696,Dis,A1,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,54,54,7,65,1,A and L,Bookstore,,Waitl
+44697,Lec,B,4,KRAMER-MILLER J.,MWF   2:00- 2:50p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,59,20,0,34,1,A and L,Bookstore,,OPEN
+44698,Dis,B1,0,STAFF,TuTh   9:00- 9:50 ,VRTL REMOTE,,59,20,0,22,1,A and L,Bookstore,,OPEN
+44712,Lec,C,4,PANTANO A.,MWF   9:00- 9:50 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,60,59,4,82,2,A and L,Bookstore,,NewOnly
+44713,Dis,C1,0,STAFF,TuTh   4:00- 4:50p,VRTL REMOTE,,60,59,4,67,2,A and L,Bookstore,,NewOnly
+44715,Lec,A,5,KAPLAN N.,MTuWThF   2:00- 2:50p,VRTL REMOTE,Thu Dec 17 1:30-3:30pm,15,7,n/a,12,0,X,Bookstore,,OPEN
+44721,Lec,A,4,SMITH L.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,60,48,0,42,4,A and L,Bookstore,,OPEN
+44722,Dis,A1,0,STAFF,TuTh   12:00-12:50p,VRTL REMOTE,,60,48,0,27,4,A and L,Bookstore,,OPEN
+44725,Lec,C,4,DONALDSON N.,MWF   10:00-10:50 ,VRTL REMOTE,Mon Dec 14 10:30-12:30pm,86,86,0,139,0,A and L,Bookstore,,Waitl
+44726,Dis,C1,0,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,,86,86,0,111,0,A and L,Bookstore,,Waitl
+44727,Lec,A,4,DONALDSON N.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,85,84,11,120,0,A and L,Bookstore,,Waitl
+44728,Dis,A1,0,STAFF,TuTh   3:00- 3:50p,VRTL REMOTE,,85,85,11,107,0,A and L,Bookstore,,Waitl
+44746,Lec,B,4,FISCHBACHER C.,MWF   4:00- 4:50p,VRTL REMOTE,Wed Dec 16 4:00-6:00pm,70,67,2,95,18,A and L,Bookstore,,NewOnly
+44747,Dis,B1,0,STAFF,WF   3:00- 3:50p,VRTL REMOTE,,70,67,2,66,18,A and L,Bookstore,,NewOnly
+44748,Lec,C,4,MA A.,MWF   1:00- 1:50p,VRTL REMOTE,Wed Dec 16 1:30-3:30pm,72,67,1,76,18,A and L,Bookstore,,NewOnly
+44749,Dis,C1,0,STAFF,TuTh   2:00- 2:50p,VRTL REMOTE,,72,67,1,66,18,A and L,Bookstore,,NewOnly
+44753,Lec,A,4,LUDWIG J.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,58,15,0,22,0,A and L,Bookstore,,OPEN
+44754,Dis,A1,0,STAFF,TuTh   8:00- 8:50 ,VRTL REMOTE,,58,15,0,11,0,A and L,Bookstore,,OPEN
+44757,Lec,C,4,LUDWIG J.,MWF   6:00- 6:50p,VRTL REMOTE,Fri Dec 18 7:00-9:00pm,59,59,8,75,0,A and L,Bookstore,,Waitl
+44758,Dis,C1,0,STAFF,TuTh   6:00- 6:50p,VRTL REMOTE,,59,59,8,70,0,A and L,Bookstore,,Waitl
+44760,Lec,A,4,ABRAMOVICH P.,MWF   5:00- 5:50p,VRTL REMOTE,Wed Dec 16 10:30-12:30pm,45,29,0,38,0,A and L,Bookstore,,OPEN
+44761,Dis,A1,0,STAFF,WF   3:00- 3:50p,VRTL REMOTE,,45,29,0,30,0,A and L,Bookstore,,OPEN
+44765,Lec,B,4,SCHOEN R.,MWF   10:00-10:50 ,VRTL REMOTE,Mon Dec 14 10:30-12:30pm,60,47,0,61,2,A and L,Bookstore,,OPEN
+44770,Dis,B1,0,STAFF,MW   9:00- 9:50 ,VRTL REMOTE,,60,47,0,43,2,A and L,Bookstore,,OPEN
+44779,Lec,D,4,HEZARI H.,MWF   12:00-12:50p,VRTL REMOTE,Mon Dec 14 1:30-3:30pm,60,58,0,76,2,A and L,Bookstore,,NewOnly
+44780,Dis,D1,0,STAFF,TuTh   1:00- 1:50p,VRTL REMOTE,,60,58,0,63,2,A and L,Bookstore,,NewOnly
+44781,Lec,A,4,MOONEY C.,MWF   2:00- 2:50p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,59,59,7,87,0,A and L,Bookstore,,Waitl
+44782,Dis,A1,0,STAFF,TuTh   3:00- 3:50p,VRTL REMOTE,,59,59,7,72,0,A and L,Bookstore,,Waitl
+44783,Lec,B,4,MOONEY C.,MWF   1:00- 1:50p,VRTL REMOTE,Wed Dec 16 1:30-3:30pm,47,47,6,59,0,A and L,Bookstore,,Waitl
+44784,Dis,B1,0,STAFF,TuTh   4:00- 4:50p,VRTL REMOTE,,47,47,6,56,0,A and L,Bookstore,,Waitl
+44785,Lec,A,5,GORODETSKI A.,MTuWThF   10:00-10:50 ,VRTL REMOTE,    TBA,0,3,n/a,5,0,X,Bookstore,,FULL
+44795,Lec,A,4,DONALDSON N.,MWF   2:00- 2:50p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,50,50,8,80,0,A and L,Bookstore,,FULL
+44800,Dis,A1,0,STAFF,TuTh   1:00- 1:50p,VRTL REMOTE,,50,50,7,62,0,A and L,Bookstore,,Waitl
+44805,Lec,A,4,ZEMAN M.,MWF   9:00- 9:50 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,60,60,1,68,0,A and L,Bookstore,,Waitl
+44810,Dis,A1,0,STAFF,MW   8:00- 8:50 ,VRTL REMOTE,,60,60,1,63,0,A and L,Bookstore,,Waitl
+44825,Lec,A,2,PANTANO A.,M   2:00- 3:50p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,35,1,0,9,0,A and D,Bookstore,,OPEN
+44826,Fld,A1,0,STAFF,W   2:00- 3:50p,VRTL REMOTE,,35,1,0,4,0,,Bookstore,,OPEN
+44827,Tut,A2,0,STAFF,Tu   9:00- 9:50 ,VRTL REMOTE,,35,1,0,1,0,,Bookstore,,OPEN
+44830,Sem,A,2,JITOMIRSKAYA S.,Tu   7:00- 8:20p,VRTL REMOTE,Tue Dec 15 7:00-9:00pm,36,12,0,19,0,A and D,Bookstore,,OPEN
+44835,Lec,A,4,PELAYO R.,MWF   10:00-10:50 ,VRTL REMOTE,Mon Dec 14 10:30-12:30pm,20,20,3,35,0,A and L,Bookstore,,FULL
+44836,Dis,A1,0,STAFF,TuTh   12:00-12:50p,VRTL REMOTE,,20,20,3,24,0,A and L,Bookstore,,FULL
+44840,Lec,B,4,PELAYO R.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,20,20,4,30,0,A and L,Bookstore,,FULL
+44841,Dis,B1,0,STAFF,TuTh   11:00-11:50 ,VRTL REMOTE,,20,20,4,24,0,A and L,Bookstore,,FULL
+44900,Res,A,4-Feb,ALLARD J.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44901,Res,B,4-Feb,BARANOVSKY V.,    TBA,TBA,    TBA,3,0,n/a,1,0,X,Bookstore,,OPEN
+44902,Res,C,4-Feb,CHEN L.,    TBA,TBA,    TBA,3,0,n/a,0,0,X,Bookstore,,OPEN
+44903,Res,D,4-Feb,CRANSTON M.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44904,Res,E,4-Feb,DAVIS C.,    TBA,TBA,    TBA,20,0,n/a,0,0,X,Bookstore,,OPEN
+44906,Res,F,4-Feb,ENCISO RUIZ G.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44907,Res,G,4-Feb,FERBER A.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44908,Res,H,4-Feb,FIGOTIN A.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44910,Res,I,4-Feb,FOREMAN M.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44912,Res,J,4-Feb,GOLDBRING I.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44914,Res,K,4-Feb,GORODETSKI A.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44915,Res,L,4-Feb,GUIDOTTI P.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44916,Res,M,4-Feb,HEZARI H.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44918,Res,N,4-Feb,STAFF,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44919,Res,O,4-Feb,JITOMIRSKAYA S.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44920,Res,P,4-Feb,KAPLAN N.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44921,Res,Q,4-Feb,KLEIN A.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44922,Res,R,4-Feb,KOMAROVA N.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44923,Res,S,4-Feb,KRUPCHYK K.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44926,Res,T,4-Feb,LI S.,    TBA,TBA,    TBA,4,0,n/a,0,0,X,Bookstore,,OPEN
+44928,Res,U,4-Feb,LOWENGRUB J.,    TBA,TBA,    TBA,4,0,n/a,0,0,X,Bookstore,,OPEN
+44929,Res,V,4-Feb,LU Z.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44930,Res,W,4-Feb,LUDWIG J.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44931,Res,X,4-Feb,MOONEY C.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44932,Res,Y,4-Feb,NIE Q.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44938,Res,Z,4-Feb,PANTANO A.,    TBA,TBA,    TBA,3,0,n/a,0,0,X,Bookstore,,OPEN
+44939,Res,AA,4-Feb,PELAYO R.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44940,Res,BB,4-Feb,SCHOEN R.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44944,Res,CC,4-Feb,SILVERBERG A.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44946,Res,DD,4-Feb,SOLNA K.,    TBA,TBA,    TBA,5,1,n/a,1,0,X,Bookstore,,OPEN
+44947,Res,EE,4-Feb,STREETS J.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44948,Res,FF,4-Feb,TSENG L.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44952,Res,GG,4-Feb,VERSHYNIN R.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44953,Res,HH,4-Feb,VIACLOVSKY J.,    TBA,TBA,    TBA,1,0,n/a,0,0,X,Bookstore,,OPEN
+44956,Res,II,4-Feb,WAN D.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44957,Res,JJ,4-Feb,WAN F.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44959,Res,KK,4-Feb,WOLFSON J.,    TBA,TBA,    TBA,4,0,n/a,0,0,X,Bookstore,,OPEN
+44960,Res,LL,4-Feb,XIN J.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44964,Res,MM,4-Feb,YU Y.,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+44966,Res,NN,4-Feb,ZEMAN M.,    TBA,TBA,    TBA,4,0,n/a,0,0,X,Bookstore,,OPEN
+44967,Res,OO,4-Feb,ZHANG X.,    TBA,TBA,    TBA,4,0,n/a,0,0,X,Bookstore,,OPEN
+44968,Res,PP,4-Feb,STAFF,    TBA,TBA,    TBA,2,0,n/a,0,0,X,Bookstore,,OPEN
+45000,Lec,A,5,GORODETSKI A.,MTuWThF   10:00-10:50 ,VRTL REMOTE,    TBA,34,3,n/a,4,0,K and L,Bookstore,,OPEN
+45010,Lec,A,5,KAPLAN N.,MTuWThF   2:00- 2:50p,VRTL REMOTE,Thu Dec 17 1:30-3:30pm,30,5,n/a,10,0,K and L,Bookstore,,OPEN
+45020,Lec,A,4,GUIDOTTI P.,MW   5:00- 6:20p,VRTL REMOTE,Wed Dec 16 10:30-12:30pm,24,24,n/a,26,0,K and L,Bookstore,,FULL
+45021,Dis,A1,0,STAFF,TuTh   4:00- 4:50p,VRTL REMOTE,,12,12,n/a,13,0,K and L,Bookstore,,FULL
+45022,Dis,A2,0,STAFF,    TBA,VRTL REMOTE,,12,12,n/a,12,0,K and L,Bookstore,,FULL
+45030,Lec,A,4,ZHANG X.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,20,4,n/a,5,0,K and L,Bookstore,,OPEN
+45040,Lec,A,4,FIGOTIN A.,MWF   9:00- 9:50 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,29,12,n/a,15,0,K and L,Bookstore,,OPEN
+45041,Dis,A1,0,STAFF,MWF   3:00- 3:50p,VRTL REMOTE,,20,12,n/a,14,0,K and L,Bookstore,,OPEN
+45042,Lec,A,4,LI S.,MW   9:00-10:20 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,20,1,n/a,1,0,K and L,Bookstore,,OPEN
+45043,Lec,A,4,CHEN L.,MWF   10:00-10:50 ,VRTL REMOTE,Mon Dec 14 10:30-12:30pm,13,5,n/a,8,0,K and L,Bookstore,,OPEN
+45060,Lec,A,4,KOMAROVA N.,MWF   9:00- 9:50 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,20,18,n/a,19,0,K and L,Bookstore,,OPEN
+45070,Lec,A,4,REYES M.,TuTh   11:00-11:50 ,VRTL REMOTE,Tue Dec 15 10:30-12:30pm,20,10,n/a,13,0,K and L,Bookstore,,OPEN
+45071,Dis,A1,0,STAFF,MWF   1:00- 1:50p,VRTL REMOTE,,20,9,n/a,12,0,K and L,Bookstore,,OPEN
+45081,Lec,A,4,BARANOVSKY V.,MWF   1:00- 1:50p,VRTL REMOTE,Wed Dec 16 1:30-3:30pm,20,11,n/a,13,0,K and L,Bookstore,,OPEN
+45083,Lec,A,4,WAN D.,TuTh   10:00-11:20 ,VRTL REMOTE,    TBA,20,8,n/a,9,0,K and L,Bookstore,,OPEN
+45087,Lec,A,4,TSENG L.,MWF   12:00-12:50p,VRTL REMOTE,Mon Dec 14 1:30-3:30pm,20,8,n/a,14,0,K and L,Bookstore,,OPEN
+45095,Lec,A,4,VIACLOVSKY J.,MW   2:00- 3:20p,VRTL REMOTE,Fri Dec 18 1:30-3:30pm,20,6,n/a,7,0,K and L,Bookstore,,OPEN
+45110,Lec,A,4,KLEIN A.,TuTh   4:00- 5:20p,VRTL REMOTE,    TBA,30,6,n/a,7,0,K and L,Bookstore,,OPEN
+45120,Lec,A,4,VERSHYNIN R.,MW   3:30- 4:50p,VRTL REMOTE,Mon Dec 14 4:00-6:00pm,20,8,n/a,19,0,K and L,Bookstore,,OPEN
+45143,Lec,A,4,GOLDBRING I.,MWF   9:00- 9:50 ,VRTL REMOTE,Wed Dec 16 8:00-10:00am,13,3,n/a,3,0,K and L,Bookstore,,OPEN
+45150,Lec,A,4,YU Y.,MWF   3:00- 3:50p,VRTL REMOTE,Mon Dec 14 4:00-6:00pm,20,2,n/a,4,0,K and L,Bookstore,,OPEN
+45160,Lec,A,4,KRUPCHYK K.,MWF   11:00-11:50 ,VRTL REMOTE,Fri Dec 18 8:00-10:00am,25,9,n/a,12,0,K and L,Bookstore,,OPEN
+45200,Col,A,1,STAFF,Th   4:00- 4:50p,VRTL REMOTE,    TBA,0,0,n/a,0,0,K and S,Bookstore,,FULL
+45300,Sem,A,2,STAFF,M   4:00- 4:50p,TBA,Wed Dec 16 4:00-6:00pm,20,6,n/a,8,0,L and S,Bookstore,,OPEN
+45310,Sem,B,2,STAFF,M   4:00- 5:50p,TBA,Wed Dec 16 4:00-6:00pm,15,3,n/a,3,0,L and S,Bookstore,,OPEN
+45320,Sem,C,2,STAFF,F   1:00- 1:50p,TBA,    TBA,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45330,Sem,D,2,STAFF,Tu   4:00- 4:50p,TBA,    TBA,15,3,n/a,5,0,L and S,Bookstore,,OPEN
+45340,Sem,E,2,STAFF,Tu   1:00- 1:50p,TBA,Fri Dec 18 4:00-6:00pm,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45350,Sem,F,2,STAFF,Tu   3:00- 3:50p,TBA,Tue Dec 15 4:00-6:00pm,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45360,Sem,G,2,STAFF,Th   2:00- 2:50p,TBA,    TBA,15,3,n/a,4,0,L and S,Bookstore,,OPEN
+45370,Sem,H,2,STAFF,W   1:00- 1:50p,TBA,    TBA,30,3,n/a,5,0,L and S,Bookstore,,OPEN
+45380,Sem,I,2,STAFF,Tu   11:00-11:50 ,TBA,Tue Dec 15 10:30-12:30pm,15,3,n/a,5,0,L and S,Bookstore,,OPEN
+45390,Sem,J,2,ENCISO RUIZ G.,F   4:00- 4:50p,TBA,    TBA,72,21,n/a,21,0,L and S,Bookstore,,OPEN
+45400,Sem,K,2,STAFF,Th   3:00- 3:50p,TBA,    TBA,15,8,n/a,8,0,L and S,Bookstore,,OPEN
+45410,Sem,L,2,STAFF,F   3:00- 3:50p,TBA,    TBA,0,0,n/a,2,0,L and S,Bookstore,,FULL
+45415,Sem,M,2,STAFF,F   3:00- 3:50p,TBA,    TBA,15,3,n/a,3,0,L and S,Bookstore,,OPEN
+45420,Sem,N,2,STAFF,Tu   10:00-11:50 ,TBA,    TBA,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45430,Sem,O,2,STAFF,F   1:00- 1:50p,TBA,    TBA,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45436,Sem,P,2,STAFF,Th   1:30- 2:50p,TBA,    TBA,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45440,Sem,Q,2,STAFF,W   4:00- 5:50p,TBA,    TBA,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45445,Sem,R,2,STAFF,Tu   2:00- 2:50p,TBA,Thu Dec 17 1:30-3:30pm,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45450,Sem,S,2,STAFF,Th   10:00-11:50 ,TBA,    TBA,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45465,Sem,T,2,STAFF,W   4:00- 5:50p,TBA,    TBA,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45470,Sem,U,2,STAFF,M   4:00- 4:50p,TBA,Wed Dec 16 4:00-6:00pm,15,3,n/a,4,0,L and S,Bookstore,,OPEN
+45500,Res,A,12-Jan,ALLARD J.,    TBA,TBA,    TBA,15,1,n/a,1,0,X,Bookstore,,OPEN
+45501,Res,B,12-Jan,BARANOVSKY V.,    TBA,TBA,    TBA,15,0,n/a,1,0,X,Bookstore,,OPEN
+45502,Res,C,12-Jan,CHEN L.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45504,Res,D,12-Jan,CRANSTON M.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45505,Res,E,12-Jan,DAVIS C.,    TBA,TBA,    TBA,1,0,n/a,0,0,X,Bookstore,,OPEN
+45508,Res,F,12-Jan,ENCISO RUIZ G.,    TBA,TBA,    TBA,15,1,n/a,1,0,X,Bookstore,,OPEN
+45509,Res,G,12-Jan,FERBER A.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45510,Res,H,12-Jan,FIGOTIN A.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45512,Res,I,12-Jan,FOREMAN M.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45514,Res,J,12-Jan,GOLDBRING I.,    TBA,TBA,    TBA,15,0,n/a,1,0,X,Bookstore,,OPEN
+45515,Res,K,12-Jan,GORODETSKI A.,    TBA,TBA,    TBA,15,2,n/a,2,0,X,Bookstore,,OPEN
+45516,Res,L,12-Jan,GUIDOTTI P.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45517,Res,M,12-Jan,HEZARI H.,    TBA,TBA,    TBA,5,0,n/a,0,0,X,Bookstore,,OPEN
+45518,Res,N,12-Jan,HUBER K.,    TBA,TBA,    TBA,5,0,n/a,0,0,X,Bookstore,,OPEN
+45519,Res,O,12-Jan,STAFF,    TBA,TBA,    TBA,5,0,n/a,0,0,X,Bookstore,,OPEN
+45520,Res,P,12-Jan,JITOMIRSKAYA S.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45521,Res,Q,12-Jan,KAPLAN N.,    TBA,TBA,    TBA,15,0,n/a,1,0,X,Bookstore,,OPEN
+45522,Res,R,12-Jan,KLEIN A.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45524,Res,S,12-Jan,KOMAROVA N.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45526,Res,T,12-Jan,KRUPCHYK K.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45528,Res,U,12-Jan,LI S.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45530,Res,V,12-Jan,LOWENGRUB J.,    TBA,TBA,    TBA,15,1,n/a,1,0,X,Bookstore,,OPEN
+45532,Res,W,12-Jan,LU Z.,    TBA,TBA,    TBA,15,0,n/a,1,0,X,Bookstore,,OPEN
+45533,Res,X,12-Jan,LUDWIG J.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45534,Res,Y,12-Jan,MOONEY C.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45536,Res,Z,12-Jan,NIE Q.,    TBA,TBA,    TBA,15,1,n/a,1,0,X,Bookstore,,OPEN
+45538,Res,AA,12-Jan,PANTANO A.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45540,Res,BB,12-Jan,PELAYO R.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45542,Res,CC,12-Jan,SCHOEN R.,    TBA,TBA,    TBA,15,0,n/a,1,0,X,Bookstore,,OPEN
+45546,Res,DD,12-Jan,SILVERBERG A.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45548,Res,EE,12-Jan,SOLNA K.,    TBA,TBA,    TBA,15,0,n/a,1,0,X,Bookstore,,OPEN
+45552,Res,FF,12-Jan,STREETS J.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45553,Res,GG,12-Jan,TSENG L.,    TBA,TBA,    TBA,15,0,n/a,1,0,X,Bookstore,,OPEN
+45554,Res,HH,12-Jan,VERSHYNIN R.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45555,Res,II,12-Jan,VIACLOVSKY J.,    TBA,TBA,    TBA,5,0,n/a,1,0,X,Bookstore,,OPEN
+45558,Res,JJ,12-Jan,WAN D.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45560,Res,KK,12-Jan,WAN F.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45562,Res,LL,12-Jan,WOLFSON J.,    TBA,TBA,    TBA,15,0,n/a,2,0,X,Bookstore,,OPEN
+45564,Res,MM,12-Jan,XIN J.,    TBA,TBA,    TBA,15,1,n/a,3,0,X,Bookstore,,OPEN
+45568,Res,NN,12-Jan,YU Y.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45570,Res,OO,12-Jan,ZEMAN M.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45571,Res,PP,12-Jan,ZHANG X.,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45572,Res,QQ,12-Jan,STAFF,    TBA,TBA,    TBA,15,0,n/a,0,0,X,Bookstore,,OPEN
+45990,Tut,A,4-Jan,ENCISO RUIZ G.,    TBA,VRTL REMOTE,    TBA,50,0,n/a,0,0,X and S,Bookstore,,OPEN

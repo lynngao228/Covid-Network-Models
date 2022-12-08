@@ -1,0 +1,199 @@
+Code,Type,Sec,Units,,Time,Place,,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+44000,Lec,A,4,,    TBA,ON LINE,,198,67,0,101,0,A,Bookstore,,OPEN
+44020,Lec,A,4,,    TBA,ON LINE,,406,244,0,341,0,A,Bookstore,,OPEN
+44110,Lec,A,4,,MWF   8:00- 8:50,VRTL REMOTE,,339,240,0,382,305,A,Bookstore,,NewOnly
+44140,Lec,B,4,,    TBA,ON LINE,,448,411,0,542,305,A,Bookstore,,NewOnly
+44275,Lec,A,4,,MWF   6:00- 6:50p,VRTL REMOTE,,339,264,0,368,305,A,Bookstore,,NewOnly
+44290,Lec,B,4,,    TBA,ON LINE,,448,240,5,348,305,A,Bookstore,,NewOnly
+44355,Lec,A,4,,MWF   4:00- 4:50p,VRTL REMOTE,,332,134,0,192,99,A and N,Bookstore,,OPEN
+44380,Lec,B,4,,MWF   8:00- 8:50,VRTL REMOTE,,107,52,0,95,98,A and N,Bookstore,,NewOnly
+44386,Lec,C,4,,MWF   2:00- 2:50p,VRTL REMOTE,,257,99,0,127,98,A and N,Bookstore,,OPEN
+44415,Lec,A,4,,MWF   1:00- 1:50p,VRTL REMOTE,,114,107,0,165,7,A and N,Bookstore,,NewOnly
+44426,Lec,B,4,,MWF   12:00-12:50p,VRTL REMOTE,,104,95,0,135,7,A and N,Bookstore,,OPEN
+44431,Lec,C,4,,MWF   3:00- 3:50p,VRTL REMOTE,,114,76,0,81,8,A and N,Bookstore,,OPEN
+44435,Lec,A,4,,MWF   5:00- 5:50p,VRTL REMOTE,,100,100,2,146,12,A and N,Bookstore,,Waitl
+44440,Lec,B,4,,MWF   4:00- 4:50p,VRTL REMOTE,,100,100,1,125,12,A and N,Bookstore,,Waitl
+44450,Lec,C,4,,MWF   2:00- 2:50p,VRTL REMOTE,,100,80,0,97,12,A and N,Bookstore,,OPEN
+44460,Lec,D,4,,MWF   2:00- 2:50p,VRTL REMOTE,,106,59,0,80,12,A and N,Bookstore,,OPEN
+44465,Lec,E,4,,MWF   11:00-11:50,VRTL REMOTE,,100,100,3,127,12,A and N,Bookstore,,Waitl
+44470,Lec,F,4,,MWF   3:00- 3:50p,VRTL REMOTE,,102,43,0,43,12,A and N,Bookstore,,OPEN
+44480,Lec,G,4,,MWF   11:00-11:50,VRTL REMOTE,,110,19,0,21,12,A and N,Bookstore,,OPEN
+44495,Lec,H,4,,MWF   3:00- 3:50p,VRTL REMOTE,,95,7,0,11,12,A and N,Bookstore,,OPEN
+44505,Lec,A,4,,MWF   4:00- 4:50p,VRTL REMOTE,,180,164,0,218,11,A and N,Bookstore,,OPEN
+44520,Lec,B,4,,MWF   1:00- 1:50p,VRTL REMOTE,,180,180,13,251,11,A and N,Bookstore,,Waitl
+44580,Lec,A,4,,    TBA,ON LINE,,399,93,0,175,0,A and N,Bookstore,,OPEN
+44594,Lec,A,4,,    TBA,ON LINE,,294,257,0,331,0,A and N,Bookstore,,OPEN
+44605,Lec,A,4,,MWF   8:00- 8:50,VRTL REMOTE,,49,25,7,52,30,A and L,Bookstore,,NewOnly
+44606,Lab,AL,0,,TuTh   8:00- 8:50,VRTL REMOTE,,49,25,7,40,30,A and L,Bookstore,,NewOnly
+44607,Lec,B,4,,MWF   11:00-11:50,VRTL REMOTE,,50,45,3,87,30,A and L,Bookstore,,NewOnly
+44608,Lab,BL,0,,    TBA,ON LINE,,50,45,3,51,30,A and L,Bookstore,,NewOnly
+44609,Lec,C,4,,MWF   12:00-12:50p,VRTL REMOTE,,50,33,7,53,30,A and L,Bookstore,,NewOnly
+44610,Lab,CL,0,,    TBA,ON LINE,,50,33,7,40,30,A and L,Bookstore,,NewOnly
+44614,Lec,A,4,,MWF   12:00-12:50p,VRTL REMOTE,,50,46,8,92,10,A and L,Bookstore,,NewOnly
+44615,Lab,AL,0,,TuTh   1:00- 1:50p,VRTL REMOTE,,50,46,8,61,10,A and L,Bookstore,,NewOnly
+44616,Lec,A,4,,MWF   11:00-11:50,VRTL REMOTE,,47,28,0,44,21,A and L,Bookstore,,NewOnly
+44620,Lec,C,4,,MWF   9:00- 9:50,VRTL REMOTE,,54,54,9,72,22,A and L,Bookstore,,FULL
+44627,Lec,D,4,,MWF   12:00-12:50p,VRTL REMOTE,,54,26,0,30,21,A and L,Bookstore,,OPEN
+44632,Lec,A,4,,MWF   3:00- 3:50p,VRTL REMOTE,,46,45,n/a,78,5,A and L,Bookstore,,NewOnly
+44634,Lab,AL,1,,TuTh   4:00- 4:50p,VRTL REMOTE,,46,44,n/a,50,5,A and L,Bookstore,,NewOnly
+44635,Lec,B,4,,MWF   12:00-12:50p,VRTL REMOTE,,45,45,off(2),85,2,A and L,Bookstore,,FULL
+44638,Lab,BL,1,,TuTh   1:00- 1:50p,VRTL REMOTE,,45,45,off(2),67,2,A and L,Bookstore,,FULL
+44639,Lec,C,4,,MWF   8:00- 8:50,VRTL REMOTE,,45,44,n/a,71,5,A and L,Bookstore,,NewOnly
+44641,Lab,CL,1,,TuTh   10:00-10:50,VRTL REMOTE,,45,44,n/a,50,5,A and L,Bookstore,,NewOnly
+44646,Lec,A,4,,MWF   4:00- 4:50p,VRTL REMOTE,,62,47,0,83,18,A and L,Bookstore,,NewOnly
+44648,Lec,B,4,,MWF   11:00-11:50,VRTL REMOTE,,64,50,2,70,18,A and L,Bookstore,,NewOnly
+44650,Lec,D,4,,MWF   10:00-10:50,VRTL REMOTE,,45,17,n/a,19,33,A and L,Bookstore,,NewOnly
+44652,Lab,DL,1,,TuTh   11:00-11:50,VRTL REMOTE,,45,17,n/a,9,33,A and L,Bookstore,,NewOnly
+44653,Lec,A,4,,MWF   9:00- 9:50,VRTL REMOTE,,35,20,0,33,12,A and L,Bookstore,,OPEN
+44690,Lec,A,4,,MWF   10:00-10:50,VRTL REMOTE,,35,35,2,52,0,A and L,Bookstore,,Waitl
+44695,Lec,A,4,,MWF   4:00- 4:50p,VRTL REMOTE,,54,54,7,85,1,A and L,Bookstore,,Waitl
+44697,Lec,B,4,,MWF   2:00- 2:50p,VRTL REMOTE,,59,20,0,34,1,A and L,Bookstore,,OPEN
+44712,Lec,C,4,,MWF   9:00- 9:50,VRTL REMOTE,,60,59,4,82,2,A and L,Bookstore,,NewOnly
+44715,Lec,A,5,,MTuWThF   2:00- 2:50p,VRTL REMOTE,,15,7,n/a,12,0,X,Bookstore,,OPEN
+44721,Lec,A,4,,MWF   11:00-11:50,VRTL REMOTE,,60,48,0,42,4,A and L,Bookstore,,OPEN
+44725,Lec,C,4,,MWF   10:00-10:50,VRTL REMOTE,,86,86,0,139,0,A and L,Bookstore,,Waitl
+44727,Lec,A,4,,MWF   11:00-11:50,VRTL REMOTE,,85,84,11,120,0,A and L,Bookstore,,Waitl
+44746,Lec,B,4,,MWF   4:00- 4:50p,VRTL REMOTE,,70,67,2,95,18,A and L,Bookstore,,NewOnly
+44748,Lec,C,4,,MWF   1:00- 1:50p,VRTL REMOTE,,72,67,1,76,18,A and L,Bookstore,,NewOnly
+44753,Lec,A,4,,MWF   11:00-11:50,VRTL REMOTE,,58,15,0,22,0,A and L,Bookstore,,OPEN
+44757,Lec,C,4,,MWF   6:00- 6:50p,VRTL REMOTE,,59,59,8,75,0,A and L,Bookstore,,Waitl
+44760,Lec,A,4,,MWF   5:00- 5:50p,VRTL REMOTE,,45,29,0,38,0,A and L,Bookstore,,OPEN
+44765,Lec,B,4,,MWF   10:00-10:50,VRTL REMOTE,,60,47,0,61,2,A and L,Bookstore,,OPEN
+44779,Lec,D,4,,MWF   12:00-12:50p,VRTL REMOTE,,60,58,0,76,2,A and L,Bookstore,,NewOnly
+44781,Lec,A,4,,MWF   2:00- 2:50p,VRTL REMOTE,,59,59,7,87,0,A and L,Bookstore,,Waitl
+44783,Lec,B,4,,MWF   1:00- 1:50p,VRTL REMOTE,,47,47,6,59,0,A and L,Bookstore,,Waitl
+44785,Lec,A,5,,MTuWThF   10:00-10:50,VRTL REMOTE,,0,3,n/a,5,0,X,Bookstore,,FULL
+44795,Lec,A,4,,MWF   2:00- 2:50p,VRTL REMOTE,,50,50,8,80,0,A and L,Bookstore,,FULL
+44805,Lec,A,4,,MWF   9:00- 9:50,VRTL REMOTE,,60,60,1,68,0,A and L,Bookstore,,Waitl
+44825,Lec,A,2,,M   2:00- 3:50p,VRTL REMOTE,,35,1,0,9,0,A and D,Bookstore,,OPEN
+44826,Fld,A1,0,,W   2:00- 3:50p,VRTL REMOTE,,35,1,0,4,0,,Bookstore,,OPEN
+44827,Tut,A2,0,,Tu   9:00- 9:50,VRTL REMOTE,,35,1,0,1,0,,Bookstore,,OPEN
+44830,Sem,A,2,,Tu   7:00- 8:20p,VRTL REMOTE,,36,12,0,19,0,A and D,Bookstore,,OPEN
+44835,Lec,A,4,,MWF   10:00-10:50,VRTL REMOTE,,20,20,3,35,0,A and L,Bookstore,,FULL
+44840,Lec,B,4,,MWF   11:00-11:50,VRTL REMOTE,,20,20,4,30,0,A and L,Bookstore,,FULL
+44900,Res,A,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44901,Res,B,4-Feb,,    TBA,TBA,,3,0,n/a,1,0,X,Bookstore,,OPEN
+44902,Res,C,4-Feb,,    TBA,TBA,,3,0,n/a,0,0,X,Bookstore,,OPEN
+44903,Res,D,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44904,Res,E,4-Feb,,    TBA,TBA,,20,0,n/a,0,0,X,Bookstore,,OPEN
+44906,Res,F,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44907,Res,G,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44908,Res,H,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44910,Res,I,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44912,Res,J,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44914,Res,K,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44915,Res,L,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44916,Res,M,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44918,Res,N,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44919,Res,O,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44920,Res,P,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44921,Res,Q,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44922,Res,R,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44923,Res,S,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44926,Res,T,4-Feb,,    TBA,TBA,,4,0,n/a,0,0,X,Bookstore,,OPEN
+44928,Res,U,4-Feb,,    TBA,TBA,,4,0,n/a,0,0,X,Bookstore,,OPEN
+44929,Res,V,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44930,Res,W,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44931,Res,X,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44932,Res,Y,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44938,Res,Z,4-Feb,,    TBA,TBA,,3,0,n/a,0,0,X,Bookstore,,OPEN
+44939,Res,AA,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44940,Res,BB,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44944,Res,CC,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44946,Res,DD,4-Feb,,    TBA,TBA,,5,1,n/a,1,0,X,Bookstore,,OPEN
+44947,Res,EE,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44948,Res,FF,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44952,Res,GG,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44953,Res,HH,4-Feb,,    TBA,TBA,,1,0,n/a,0,0,X,Bookstore,,OPEN
+44956,Res,II,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44957,Res,JJ,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44959,Res,KK,4-Feb,,    TBA,TBA,,4,0,n/a,0,0,X,Bookstore,,OPEN
+44960,Res,LL,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44964,Res,MM,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+44966,Res,NN,4-Feb,,    TBA,TBA,,4,0,n/a,0,0,X,Bookstore,,OPEN
+44967,Res,OO,4-Feb,,    TBA,TBA,,4,0,n/a,0,0,X,Bookstore,,OPEN
+44968,Res,PP,4-Feb,,    TBA,TBA,,2,0,n/a,0,0,X,Bookstore,,OPEN
+45000,Lec,A,5,,MTuWThF   10:00-10:50,VRTL REMOTE,,34,3,n/a,4,0,K and L,Bookstore,,OPEN
+45010,Lec,A,5,,MTuWThF   2:00- 2:50p,VRTL REMOTE,,30,5,n/a,10,0,K and L,Bookstore,,OPEN
+45020,Lec,A,4,,MW   5:00- 6:20p,VRTL REMOTE,,24,24,n/a,26,0,K and L,Bookstore,,FULL
+45030,Lec,A,4,,MWF   11:00-11:50,VRTL REMOTE,,20,4,n/a,5,0,K and L,Bookstore,,OPEN
+45040,Lec,A,4,,MWF   9:00- 9:50,VRTL REMOTE,,29,12,n/a,15,0,K and L,Bookstore,,OPEN
+45042,Lec,A,4,,MW   9:00-10:20,VRTL REMOTE,,20,1,n/a,1,0,K and L,Bookstore,,OPEN
+45043,Lec,A,4,,MWF   10:00-10:50,VRTL REMOTE,,13,5,n/a,8,0,K and L,Bookstore,,OPEN
+45060,Lec,A,4,,MWF   9:00- 9:50,VRTL REMOTE,,20,18,n/a,19,0,K and L,Bookstore,,OPEN
+45070,Lec,A,4,,TuTh   11:00-11:50,VRTL REMOTE,,20,10,n/a,13,0,K and L,Bookstore,,OPEN
+45081,Lec,A,4,,MWF   1:00- 1:50p,VRTL REMOTE,,20,11,n/a,13,0,K and L,Bookstore,,OPEN
+45083,Lec,A,4,,TuTh   10:00-11:20,VRTL REMOTE,,20,8,n/a,9,0,K and L,Bookstore,,OPEN
+45087,Lec,A,4,,MWF   12:00-12:50p,VRTL REMOTE,,20,8,n/a,14,0,K and L,Bookstore,,OPEN
+45095,Lec,A,4,,MW   2:00- 3:20p,VRTL REMOTE,,20,6,n/a,7,0,K and L,Bookstore,,OPEN
+45110,Lec,A,4,,TuTh   4:00- 5:20p,VRTL REMOTE,,30,6,n/a,7,0,K and L,Bookstore,,OPEN
+45120,Lec,A,4,,MW   3:30- 4:50p,VRTL REMOTE,,20,8,n/a,19,0,K and L,Bookstore,,OPEN
+45143,Lec,A,4,,MWF   9:00- 9:50,VRTL REMOTE,,13,3,n/a,3,0,K and L,Bookstore,,OPEN
+45150,Lec,A,4,,MWF   3:00- 3:50p,VRTL REMOTE,,20,2,n/a,4,0,K and L,Bookstore,,OPEN
+45160,Lec,A,4,,MWF   11:00-11:50,VRTL REMOTE,,25,9,n/a,12,0,K and L,Bookstore,,OPEN
+45200,Col,A,1,,Th   4:00- 4:50p,VRTL REMOTE,,0,0,n/a,0,0,K and S,Bookstore,,FULL
+45300,Sem,A,2,,M   4:00- 4:50p,TBA,,20,6,n/a,8,0,L and S,Bookstore,,OPEN
+45310,Sem,B,2,,M   4:00- 5:50p,TBA,,15,3,n/a,3,0,L and S,Bookstore,,OPEN
+45320,Sem,C,2,,F   1:00- 1:50p,TBA,,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45330,Sem,D,2,,Tu   4:00- 4:50p,TBA,,15,3,n/a,5,0,L and S,Bookstore,,OPEN
+45340,Sem,E,2,,Tu   1:00- 1:50p,TBA,,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45350,Sem,F,2,,Tu   3:00- 3:50p,TBA,,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45360,Sem,G,2,,Th   2:00- 2:50p,TBA,,15,3,n/a,4,0,L and S,Bookstore,,OPEN
+45370,Sem,H,2,,W   1:00- 1:50p,TBA,,30,3,n/a,5,0,L and S,Bookstore,,OPEN
+45380,Sem,I,2,,Tu   11:00-11:50,TBA,,15,3,n/a,5,0,L and S,Bookstore,,OPEN
+45390,Sem,J,2,,F   4:00- 4:50p,TBA,,72,21,n/a,21,0,L and S,Bookstore,,OPEN
+45400,Sem,K,2,,Th   3:00- 3:50p,TBA,,15,8,n/a,8,0,L and S,Bookstore,,OPEN
+45410,Sem,L,2,,F   3:00- 3:50p,TBA,,0,0,n/a,2,0,L and S,Bookstore,,FULL
+45415,Sem,M,2,,F   3:00- 3:50p,TBA,,15,3,n/a,3,0,L and S,Bookstore,,OPEN
+45420,Sem,N,2,,Tu   10:00-11:50,TBA,,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45430,Sem,O,2,,F   1:00- 1:50p,TBA,,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45436,Sem,P,2,,Th   1:30- 2:50p,TBA,,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45440,Sem,Q,2,,W   4:00- 5:50p,TBA,,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45445,Sem,R,2,,Tu   2:00- 2:50p,TBA,,15,2,n/a,2,0,L and S,Bookstore,,OPEN
+45450,Sem,S,2,,Th   10:00-11:50,TBA,,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45465,Sem,T,2,,W   4:00- 5:50p,TBA,,15,0,n/a,0,0,L and S,Bookstore,,OPEN
+45470,Sem,U,2,,M   4:00- 4:50p,TBA,,15,3,n/a,4,0,L and S,Bookstore,,OPEN
+45500,Res,A,12-Jan,,    TBA,TBA,,15,1,n/a,1,0,X,Bookstore,,OPEN
+45501,Res,B,12-Jan,,    TBA,TBA,,15,0,n/a,1,0,X,Bookstore,,OPEN
+45502,Res,C,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45504,Res,D,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45505,Res,E,12-Jan,,    TBA,TBA,,1,0,n/a,0,0,X,Bookstore,,OPEN
+45508,Res,F,12-Jan,,    TBA,TBA,,15,1,n/a,1,0,X,Bookstore,,OPEN
+45509,Res,G,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45510,Res,H,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45512,Res,I,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45514,Res,J,12-Jan,,    TBA,TBA,,15,0,n/a,1,0,X,Bookstore,,OPEN
+45515,Res,K,12-Jan,,    TBA,TBA,,15,2,n/a,2,0,X,Bookstore,,OPEN
+45516,Res,L,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45517,Res,M,12-Jan,,    TBA,TBA,,5,0,n/a,0,0,X,Bookstore,,OPEN
+45518,Res,N,12-Jan,,    TBA,TBA,,5,0,n/a,0,0,X,Bookstore,,OPEN
+45519,Res,O,12-Jan,,    TBA,TBA,,5,0,n/a,0,0,X,Bookstore,,OPEN
+45520,Res,P,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45521,Res,Q,12-Jan,,    TBA,TBA,,15,0,n/a,1,0,X,Bookstore,,OPEN
+45522,Res,R,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45524,Res,S,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45526,Res,T,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45528,Res,U,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45530,Res,V,12-Jan,,    TBA,TBA,,15,1,n/a,1,0,X,Bookstore,,OPEN
+45532,Res,W,12-Jan,,    TBA,TBA,,15,0,n/a,1,0,X,Bookstore,,OPEN
+45533,Res,X,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45534,Res,Y,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45536,Res,Z,12-Jan,,    TBA,TBA,,15,1,n/a,1,0,X,Bookstore,,OPEN
+45538,Res,AA,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45540,Res,BB,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45542,Res,CC,12-Jan,,    TBA,TBA,,15,0,n/a,1,0,X,Bookstore,,OPEN
+45546,Res,DD,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45548,Res,EE,12-Jan,,    TBA,TBA,,15,0,n/a,1,0,X,Bookstore,,OPEN
+45552,Res,FF,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45553,Res,GG,12-Jan,,    TBA,TBA,,15,0,n/a,1,0,X,Bookstore,,OPEN
+45554,Res,HH,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45555,Res,II,12-Jan,,    TBA,TBA,,5,0,n/a,1,0,X,Bookstore,,OPEN
+45558,Res,JJ,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45560,Res,KK,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45562,Res,LL,12-Jan,,    TBA,TBA,,15,0,n/a,2,0,X,Bookstore,,OPEN
+45564,Res,MM,12-Jan,,    TBA,TBA,,15,1,n/a,3,0,X,Bookstore,,OPEN
+45568,Res,NN,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45570,Res,OO,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45571,Res,PP,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45572,Res,QQ,12-Jan,,    TBA,TBA,,15,0,n/a,0,0,X,Bookstore,,OPEN
+45990,Tut,A,4-Jan,,    TBA,VRTL REMOTE,,50,0,n/a,0,0,X and S,Bookstore,,OPEN
